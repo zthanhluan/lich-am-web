@@ -1,0 +1,11 @@
+{
+  "name": "Lịch Âm Việt Nam",
+  "short_name": "Lịch Âm",
+  "description": "Tra lịch âm dương Việt Nam và nhắc ngày gia đình.",
+  "lang": "vi",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#9B2C2C",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]
+}
